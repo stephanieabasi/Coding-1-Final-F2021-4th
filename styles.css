@@ -1,0 +1,21 @@
+body{
+    background-color: #ffd6dc;
+}
+@font-face {
+    font-family: Bughia;
+    src: url(font/Bughia/Bughia\ Demo.ttf);
+  }
+h1{
+    font-family:Bughia;
+    font-size:100PX;
+    color:#740011 ;
+}
+.card-body{
+    background-color: #fdadb9;
+}
+footer{
+    background-color: #ff90a0;
+}
+a{
+    color: black;
+}
